@@ -73,3 +73,7 @@ body {
 li {
   margin-bottom: 16px;
 }
+
+ul {
+  list-style-type: none;
+}
